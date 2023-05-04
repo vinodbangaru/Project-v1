@@ -5,10 +5,8 @@
 <head>
 <body><h1>wel come to login page</h1>
 <h2>enter Your name<h2>
-
-
-
-
+<h3>enter your password<h3>
+<h4>submit<h4>
 </body>
 
 </html>
